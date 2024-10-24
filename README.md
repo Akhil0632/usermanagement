@@ -1,6 +1,6 @@
 ### Project Setup
 
-- **Clone the repo - git clone https://github.com/Akhil0632/ProductApp.git**
+- **Clone the repo - git clone https://github.com/Akhil0632/usermanagement.git**
 - **Open the terminal and change the directory to the project directory**
 - **Create .env and copy .env.example**
 - **Install dependencies - composer install**
