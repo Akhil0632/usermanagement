@@ -1,3 +1,20 @@
+### Project Setup
+
+- **Clone the repo - git clone https://github.com/Akhil0632/ProductApp.git**
+- **Open the terminal and change the directory to the project directory**
+- **Create .env and copy .env.example**
+- **Install dependencies - composer install**
+- **Make sure you have your key generated. If not, Generate key with this command - php artisan key:generate**
+- **Run migration - php artisan migrate**
+- **Run seeder - php artisan db:seed**
+- **Run project - php artisan serve**
+
+### URL of Project 
+- **Visit the url http://127.0.0.1:8000/login to get into the application. In that page, there is register button using that you need to register to the system. Then you need to login to system using your email id and password. After login, you can edit profile by adding phone number and address and you check you age is prime or not. Also you can delete you profile and logout from the application.**
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
